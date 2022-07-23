@@ -13,8 +13,6 @@ Hello there. I am Tapan 👋
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pandeytapan&repo=cpp.code.kata&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
-
 <a href="https://github.com/pandeytapan/code.kata.python">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pandeytapan&repo=code.kata.python&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
